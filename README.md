@@ -44,5 +44,5 @@ Record 2D ball information + depth
 Simulating the course of the regression during the ball throw.
 
 ## Extra
-Be aware that this project uses a lot of manual configured variables. Also the .npy array files will be overwrited when running the scripts.
+Be aware that this project uses a lot of manual configured variables. Also the .npy array files will be overwritten when running the scripts.
 
